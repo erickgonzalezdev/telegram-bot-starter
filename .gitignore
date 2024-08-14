@@ -3,4 +3,8 @@ coverage/*
 logs/*
 docs/*
 files/*
+
+start-dev.sh
+
+
 !files/README.md
